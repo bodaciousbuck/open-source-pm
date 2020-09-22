@@ -12,6 +12,7 @@ Brief writing, how subject is relevant to day-to-day work of a PM. Three lines o
 Article | Author | Reading Time | Brevity
 :-- | :--: | :--: | :--:
 [Article Name](https://www.relevantlink.com) | Johny B. Goodly | xx minutes | ☆ - ☆☆☆☆☆
+[Article Name](https://www.relevantlink.com) | Johny B. Goodly | xx minutes | ☆ - ☆☆☆☆☆
 
 ###Courses
 Course | School | Duration | Effort | Frequency | Prerequisites
