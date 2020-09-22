@@ -1,4 +1,4 @@
-![team-planning-on-a-computer-header-image](https://github.com/bodaciousbuck/open-source-project-management/blob/master/open_pm_header.jpg)
+![team-planning-on-a-computer-header-image] (paste here, remove space to left)
 
     NOTE: Produce and integrate smaller image (approx: 2600 x 1000
 
@@ -42,3 +42,7 @@ Certification | Authority | Cost | Time to Study | Prerequisites
     Check spacing after level 3 headings. Consider adding spacing underneath, for space to breath.
     Ensure stars from *articles* appear as desired.
     Ensure alternate coloring is enabled for multiple lines within a table.
+    
+    *delete above, stay below*
+    NOTE:
+    See [Open Product Management](https://github.com/ProductHired/open-product-management) for an in-depth description of the product management career field, and a smorgasboard of awesome resources!
