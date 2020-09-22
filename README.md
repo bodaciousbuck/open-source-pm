@@ -1,3 +1,5 @@
+[[https://github/bodaciousbuck/open-source-product-management/master/img/open_pm_header.jpg]]
+
 # Open Source Product Management Degree
 
 - Use this action-oriented resource to train for your first product management (PM) job, or pick up new skills. 
