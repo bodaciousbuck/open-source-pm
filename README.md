@@ -25,9 +25,9 @@ Tool | Publisher | Use Case | Cost | Frequency of Use | Required Competency | Fr
 [Tool Name](https://www.relevantlink.com) | Company Name | wireframing, nose picking, timber frame home building | $one-time cost or $xx-xxx/mo subscription cost | daily/weekly/monthly/ | novice/average/expert | [Tutorial Name](https://www.relevantlink.com)
 
 ###Books
-Book | Author | Brief | Cost | Pages
-:-- | :--: | :--: | :--: | :--:
-[Book Name](https://www.relevantlink.com) | Johny B. Goodly | How to effectively be a perfect person. | $xx.xx | xxx pages
+Book | Author | Brief | Cost | Goodreads Rating | Year Published
+:-- | :--: | :--: | :--: | :--: | :--:
+[Book Name](https://www.relevantlink.com) | Johny B. Goodly | How to effectively be a perfect person. | $xx.xx | x.xx | xxxx
 
 ###Certifications
 Certification | Authority | Cost | Time to Study | Prerequisites
