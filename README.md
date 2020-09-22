@@ -1,4 +1,4 @@
-[[https://github/bodaciousbuck/open-source-product-management/master/img/open_pm_header.jpg]]
+[https://github/bodaciousbuck/open-source-product-management/master/img/open_pm_header.jpg]
 
 # Open Source Product Management Degree
 
