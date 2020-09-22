@@ -1,5 +1,7 @@
 ![team-planning-on-a-computer-header-image](https://github.com/bodaciousbuck/open-source-project-management/blob/master/open_pm_header.jpg)
 
+    NOTE: Produce and integrate smaller image (approx: 2600 x 1000
+
 # Open Source Product Management Degree
 
 - Use this action-oriented resource to train for your first product management (PM) job, or pick up new skills. 
