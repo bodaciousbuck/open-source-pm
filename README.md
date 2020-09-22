@@ -1,3 +1,5 @@
+![team-planning-on-a-computer-header-image](https://github.com/bodaciousbuck/open-source-project-management/blob/master/open_pm_header.jpg)
+
 # Open Source Product Management Degree
 
 - Use this action-oriented resource to train for your first product management (PM) job, or pick up new skills. 
@@ -38,4 +40,3 @@ Certification | Authority | Cost | Time to Study | Prerequisites
     Check spacing after level 3 headings. Consider adding spacing underneath, for space to breath.
     Ensure stars from *articles* appear as desired.
     Ensure alternate coloring is enabled for multiple lines within a table.
-    Determine how to properly add photo into doc.
