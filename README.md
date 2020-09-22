@@ -34,5 +34,7 @@ Certification | Authority | Cost | Time to Study | Prerequisites
 :-- | :--: | :--: | :--: | :--:
 [Certification Name (INITIAL)](https://www.relevantlink.com) | We Certify | $xxx | xxx hours | paste from website
 
-    NOTE: Check for spacing after level 3 headings. Consider adding spacing underneath, for space to breath.
-    NOTE: Check to ensure stars from *articles* appear as desired.
+    NOTES:
+    Check spacing after level 3 headings. Consider adding spacing underneath, for space to breath.
+    Ensure stars from *articles* appear as desired.
+    Ensure alternate coloring is enabled for multiple lines within a table
