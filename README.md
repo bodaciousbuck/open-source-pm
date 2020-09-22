@@ -1,4 +1,3 @@
-![team-planning-on-a-computer-header-image]
 (https://github.com/bodaciousbuck/open-source-project-management/blob/master/open_pm_header.jpg)
 
 # Open Source Product Management Degree
